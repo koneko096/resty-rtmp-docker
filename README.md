@@ -1,2 +1,2 @@
 # resty-rtmp-docker
-Enchanced OpenResty docker image with Nginx RTMP module
+Enhanced OpenResty docker image with Nginx RTMP module
